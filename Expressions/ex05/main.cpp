@@ -1,11 +1,3 @@
-//7. Write a program that reads the two legs of a right triangle
-//from standard input and writes its hypotenuse to standard output.
-
-// Pitágoras: a2 + b2 = c2
-//
-//       _________
-// c = \/ a2 + b2 
-
 #include <iostream>
 #include <cmath>
 
