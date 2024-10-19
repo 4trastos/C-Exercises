@@ -1,9 +1,3 @@
-//2. Write the following expression as a C++ expression
-
-//            b
-// d =  a + ------
-//          c - d
-
 #include <iostream>
 
 using namespace std;
