@@ -47,7 +47,7 @@ las operaciones. Esto incluye la precedencia de operadores (por ejemplo, multipl
 la suma y resta) y la asociación (cómo se evalúan los operadores de igual precedencia).
 
 
-# Expressions in C++
+# Expressions in C++ 🇬🇧
 
 **Expressions in C++** are combinations of variables, constants, operators, and functions that are evaluated
 to produce a value. They are fundamental in programming, as they allow you to perform calculations, manipulate data, and control
@@ -67,7 +67,7 @@ program logic. Below is a more detailed description of what they are and how the
 
 4. **Functions**: These are blocks of code that perform specific tasks and can return a value. For example, `sqrt(x)` to calculate the square root of `x`.
 
-## Types of expressions 🇬🇧
+## Types of expressions
 
 1. **Arithmetic expressions**: These perform mathematical calculations. Example:
 ```cpp
