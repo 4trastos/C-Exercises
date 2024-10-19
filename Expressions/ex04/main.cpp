@@ -1,8 +1,3 @@
-//6. A student's final grade is the weighted average of three standards: 
-//the practical grade, which counts for 30% of the total, the theoretical
-//grade, which counts for 60%, and the participation grade, which counts for the remaining 10%.
-//Write a program that reads a student's three grades from the standard input and writes his final grade to the standard output..
-
 #include <iostream>
 
 using namespace std;
