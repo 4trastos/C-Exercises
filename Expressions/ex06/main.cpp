@@ -1,11 +1,3 @@
-//8. Write a program that calculates the value that the following
-//function takes for given values ​​of x, y;
-
-//              ___
-//            \/ x
-// f(x,y) = ---------
-//            y2 - 1
-
 #include <iostream>
 #include <cmath>
 
