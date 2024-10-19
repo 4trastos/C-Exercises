@@ -1,5 +1,3 @@
-//4. Write a program fragment that exchanges the values ​​of two variables.
-
 #include <iostream>
 
 using namespace std;
