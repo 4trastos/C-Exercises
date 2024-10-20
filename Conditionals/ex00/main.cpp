@@ -1,15 +1,3 @@
-/* la sentencia if
-
-    if (condición)
-    {
-        Instrucciones 1;
-    }
-    else
-    {
-        Instrucciones 2;
-    }
-*/
-
 #include <iostream>
 
 using namespace std;
