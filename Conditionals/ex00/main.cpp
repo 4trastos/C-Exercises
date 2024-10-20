@@ -18,5 +18,14 @@ int main()
         cout << "Error: The number is different than 5" << endl;
     }
 
+    if (number != 5)
+    {
+        cout << "Error: The number is different than 5" << endl;
+    }
+    else
+    {
+        cout << "Perfect, it's number 5" << endl;
+    }
+
     return (0);
 }
