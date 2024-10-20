@@ -6,7 +6,7 @@ Los condicionales son esenciales para la toma de decisiones dentro de un program
 
 ## Estructuras condicionales
 
-## 1. `if'
+## 1. `if`
 
 La sentencia if evalúa una condición. Si la condición es verdadera, ejecuta el bloque de código asociado.
 ```
@@ -25,7 +25,7 @@ if (edad >= 18)
 }
 ```
 
-## 2. 'else'
+## 2. 'else`
 
 La sentencia else se utiliza para especificar un bloque de código que se ejecutará si la condición del if es falsa.
 ```
@@ -52,7 +52,7 @@ else
 }
 ```
 
-## 3. `else if'
+## 3. `else if`
 
 La sentencia else if permite verificar varias condiciones en secuencia. Si una de las condiciones es verdadera, el bloque
 de código correspondiente se ejecutará y las demás condiciones serán ignoradas.
@@ -127,7 +127,7 @@ Conditionals are essential for decision making within a program.
 
 ## Conditional Structures
 
-## 1. `if'
+## 1. `if`
 
 The if statement evaluates a condition. If the condition is true, it executes the associated code block.
 ```
@@ -146,7 +146,7 @@ std::cout << "You are of legal age." << std::endl;
 }
 ```
 
-## 2. 'else'
+## 2. 'else`
 
 The else statement is used to specify a block of code that will be executed if the if condition is false.
 ```
@@ -173,7 +173,7 @@ std::cout << "You are a minor." << std::endl;
 }
 ```
 
-## 3. `else if'
+## 3. `else if`
 
 The else if statement allows you to check multiple conditions in sequence. If one of the conditions is true, the corresponding block of code will be executed and the other conditions will be ignored.
 ```
